@@ -1,0 +1,199 @@
+/* Title   */
+#title{
+    background-color: #3c2f81;
+    color: #fff
+}  
+
+.big-heading {
+    font-family: "Montserrat-black", sans-serif;
+    font-size: 3rem;
+    list-style: 1.5;
+    font-weight: 900;
+    text-align: centre;
+}
+  
+.container-fluid{
+    padding: 3% 5% 6%;
+}
+
+.admin-button{
+    margin: 5% 3% 1% 0;
+}
+
+/* Navigation Bar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+  
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+    
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-light", sans-serif;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+/* Carousel */
+
+.img {
+    width: 90%;
+    margin: 20px;   
+}
+
+/* About us */
+
+#about-us {
+    padding: 3% 15% 3%;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+    
+}
+
+h2{
+    
+    font-size: 3rem;
+}
+
+.abt-p {
+    color: grey;
+}
+
+.abt {
+    padding: 1%;
+}
+
+
+/* Events */
+
+#events {
+    margin: 5% 15%;
+    background-color: #3c2f81;
+    color: #fff;
+}
+
+.events-list {
+    padding: 0 10%;
+    color: #fff;
+}
+
+.events-h2 {
+    padding: 1% 0 0 2%;
+}
+
+.events-a {
+    text-decoration:none;
+    color: #fff;
+}
+
+/* Student */
+
+#student {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+.login-btn{
+    margin: 20% 50%;
+}
+
+/* Principal */
+
+#principal {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+/* HOD */
+
+#hod {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+/* Faculty */
+
+#faculty {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+/* Library */
+
+#library {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+/* Examination Section */
+
+#exam {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+/* College office */
+
+#office {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+/* Placement Department */
+
+#placement {
+    margin: 0 15% 2%;
+    padding: 2%;
+    background-color: lightgrey;
+    color: #3c2f81;
+    font-family: "Montserrat-light", sans-serif; 
+    font-weight: 500;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    padding: 0 15%;
+}
+
+@media (max-width: 990px) {
+    .login-btn{
+        margin: 20% 40%;
+    }
+}
